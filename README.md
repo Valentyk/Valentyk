@@ -1,6 +1,6 @@
-Best for you reader! You happened to land on my humble GitHub profile. Welcome!
+Best wishes, reader! You happened to land on my humble GitHub profile. Welcome!
 
-Who am I? Well, I am a physicist in training at Charles University. I recommend checking out my [bachelor thesis repository](https://github.com/Valentyk/My-bachelor-thesis) which has, in my opinion, some interesting stuff going on (a little bit of maths is required for full understating but the pretty images of functions on a three-dimensional sphere are worth it, I swear! And the Python code too naturally :)). Or you can pay a visit to my first simple .html [website](https://github.com/Valentyk/BB_website). Feel free to rech out to michalvalentik01@gmail.com
+Who am I? Well, I am a physicist in training at Charles University. I recommend checking out my [bachelor thesis repository](https://github.com/Valentyk/My-bachelor-thesis) contains some interesting material (a little bit of maths is required for full understating, but the pretty images of functions on a three-dimensional sphere are worth it, I swear! And the Python code too naturally :)). Or you can pay a visit to my first simple .html [website](https://github.com/Valentyk/BB_website). Feel free to rech out to michalvalentik01@gmail.com
 
 
 <!---
